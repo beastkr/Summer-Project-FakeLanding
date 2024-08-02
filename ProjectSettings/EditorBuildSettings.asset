@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: f56964fd58485d646b1ab92352df19e2
+  - enabled: 1
+    path: Assets/Scenes/cutcene.unity
+    guid: 4dff8075ac396274885382f181725283
+  - enabled: 1
+    path: Assets/Scenes/marsloading.unity
+    guid: 7fa8b07fe13910646a4041421d1a441e
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: e8980853eafe38d4187d32d533cc1c64
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/dead.unity
+    guid: 8411d4167facc164daa1e23d53f12bbc
+  - enabled: 1
+    path: Assets/Scenes/win.unity
+    guid: eeb7cd652716e1142ace58db97d58b37
+  - enabled: 1
+    path: Assets/Scenes/enemydead.unity
+    guid: a0efb1ef1ac00054fa8739ff70c54375
+  m_configObjects: {}
